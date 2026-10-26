@@ -17,7 +17,7 @@
 
 - 0xColony does not merely host repositories. We cultivate an environment in which every developer has the resources, the support, and the permission to build.
 
-- And thanks to **AK-47**(Abdullah aka dot guy),**michalskocz**(Micahel) and **ISHANSBhat** (Ishan Bhat) for their efforts in helping and organizing Colony 
+- And thanks to **AK-47Q**(Abdullah aka dot guy),**michalskocz**(Micahel) and **ISHANSBhat** (Ishan Bhat) for their efforts in helping and organizing Colony 
 
 - Founded: 2026
 - Origin: Colony Discord Community
