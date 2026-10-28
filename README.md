@@ -15,11 +15,15 @@
 - Collaborate with peers across experience levels in a supportive environment
 - Contribute meaningfully to open-source software with real-world impact
 - Grow through mentorship, code review, and hands-on engineering practice
-- We believe that innovation does not emerge from gatekeeping, but from access. Our mission is to remove the barriers — technical, social, and psychological — that -prevent talented individuals from building, learning, and shipping alongside a community that values participation over prestige.
+- We believe that innovation does not emerge from gatekeeping, but from access. Our mission is to provide a space that help talented individuals in building, learning, and shipping alongside a community that values participation over prestige.
 
 - 0xColony does not merely host repositories. We cultivate an environment in which every developer has the resources, the support, and the permission to build.
 
-- And thanks to **AK-47Q**(Abdullah aka dot guy),**michalskocz**(Micahel) and **ISHANSBhat** (Ishan Bhat) for their efforts in helping and organizing Colony 
+- And thanks to -
+-  **AK-47Q**(Abdullah aka dot guy)
+- **michalskocz**(Micahel)
+- **ISHANSBhat** (Ishan Bhat)
+- for their efforts in helping and organizing Colony 
 
 - Founded: 2026
 - Origin: Colony Discord Community
