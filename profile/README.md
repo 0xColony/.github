@@ -2,7 +2,7 @@
 "The beginning is the most important part of the work."
 — Plato
 
-![Alt Text](logo/colony_main.png)
+![Alt Text](.github/logo/colony_main.png)
 
 
 ## 0xColony
