@@ -15,7 +15,7 @@
 - Collaborate with peers across experience levels in a supportive environment
 - Contribute meaningfully to open-source software with real-world impact
 - Grow through mentorship, code review, and hands-on engineering practice
-- We believe that innovation does not emerge from gatekeeping, but from access. Our mission is to remove the barriers — technical, social, and psychological — that -prevent talented individuals from building, learning, and shipping alongside a community that values participation over prestige.
+- We believe that innovation does not emerge from gatekeeping, but from access. Our mission is to provide a space that helps talented individuals in building, learning, and shipping alongside a community that values participation over prestige.
 
 - 0xColony does not merely host repositories. We cultivate an environment in which every developer has the resources, the support, and the permission to build.
 
