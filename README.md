@@ -2,7 +2,7 @@
 "The beginning is the most important part of the work."
 — Plato
 
-![Alt Text](/home/deepnam/Pictures/colony_main.png)
+![Alt Text](logo/colony_main.png)
 
 ## 0xColony
 **0xColony** is an open-source organization established with a clear and deliberate purpose: to strengthen the developer community by providing every individual — from first-time contributors to seasoned engineers — the infrastructure, mentorship, and collaborative environment necessary to transform ideas into real, working software.
